@@ -1,4 +1,7 @@
 <script>
+    /**
+     * @type {any}
+     */
     let brand;
     let model = '';
     let seller = '';
